@@ -1,2 +1,67 @@
-# keybase
-### Keybase proof  I hereby claim:    * I am stwinst on github.   * I am stwinst (https://keybase.io/stwinst) on keybase.   * I have a public key ASCf5YlGX5V37joQL3V0Uk0EvreYbro65s_IcG-9VmX5igo  To claim this, I am signing this object:  ```json {   "body": {     "key": {       "eldest_kid": "01209fe589465f9577ee3a102f7574524d04beb7986eba3ae6cfc8706fbd5665f98a0a",       "host": "keybase.io",       "kid": "01209fe589465f9577ee3a102f7574524d04beb7986eba3ae6cfc8706fbd5665f98a0a",       "uid": "74cd0a0c2952d707d76797739eb7df19",       "username": "stwinst"     },     "merkle_root": {       "ctime": 1577139282,       "hash": "fe2e0f2c2fe5c0bcb61fb61ab943f81f56cf0425016b8fec1dc9edf5974e3dc18d6e814184cb7e50f14bad7265f051711694d5d8f18849425b008fc93e9fd1d2",       "hash_meta": "56c2bd0186fa335af99da684f4d6d28ce18e209951ae7af6b4c68b626ff7c959",       "seqno": 13924265     },     "service": {       "entropy": "DMztO/gk3Ja4/Slp8IztL4rR",       "name": "github",       "username": "stwinst"     },     "type": "web_service_binding",     "version": 2   },   "client": {     "name": "keybase.io go client",     "version": "5.1.1"   },   "ctime": 1577139289,   "expire_in": 504576000,   "prev": "fb2bb8a10f69203e33bc7995d8d34c6e0b5d67f0d1154e99eb6d5d9809b1297f",   "seqno": 5,   "tag": "signature" } ```  with the key [ASCf5YlGX5V37joQL3V0Uk0EvreYbro65s_IcG-9VmX5igo](https://keybase.io/stwinst), yielding the signature:  ``` hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn+WJRl+Vd+46EC91dFJNBL63mG66OubPyHBvvVZl+YoKp3BheWxvYWTESpcCBcQg+yu4oQ9pID4zvHmV2NNMbgtdZ/DRFU6Z621dmAmxKX/EIO2snkcZWM/qJwVNUrBnNAM3fmGfe8n+mi2RInQpivNJAgHCo3NpZ8RAn5IlrN8WZpoI/z21apdbOZ7OjdSsI/NCqvy2cJC3SFMKJZ/q41s9cNwug8UgelL+BxrXlCujffhTiy7v1RgMDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICkeZdjUZlrgY8zz1ZcP9PK0C8vJNoYKyCFen6SdKfL1o3RhZ80CAqd2ZXJzaW9uAQ==  ```  And finally, I am proving ownership of the github account by posting this as a gist.  ### My publicly-auditable identity:  https://keybase.io/stwinst  ### From the command line:  Consider the [keybase command line program](https://keybase.io/download).  ```bash # look me up keybase id stwinst ```
+### Keybase proof
+
+I hereby claim:
+
+  * I am stwinst on github.
+  * I am stel78 (https://keybase.io/stel78) on keybase.
+  * I have a public key ASCI1YiOU5FaC5_MI4GB6kDbDevpNjb1vgl5nY-HPKkWBQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012088d5888e53915a0b9fcc238181ea40db0debe93636f5be09799d8f873ca916050a",
+      "host": "keybase.io",
+      "kid": "012088d5888e53915a0b9fcc238181ea40db0debe93636f5be09799d8f873ca916050a",
+      "uid": "beb6fa644ba895ebd7056a7161a5cb19",
+      "username": "stel78"
+    },
+    "merkle_root": {
+      "ctime": 1580031885,
+      "hash": "eeefc98f728e5e4887402395a371ab021edf2842dac8e5e79f2bccec275095e2be2b68eb2cf9c8727b09261853cbe48068c7ed73615a55093008f1bd79fa2199",
+      "hash_meta": "614c6c4e1770de44a56d864ac104b94e1dcda7247966ac3225ebf22e424eebe9",
+      "seqno": 14368432
+    },
+    "service": {
+      "entropy": "y4nAVv/xIH1rYCM4PmtpSX9R",
+      "name": "github",
+      "username": "stwinst"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580031916,
+  "expire_in": 504576000,
+  "prev": "4acdb437e915ff900a65cffcc3006b493dca86b668b3b078f79b8cd6d4c2493f",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASCI1YiOU5FaC5_MI4GB6kDbDevpNjb1vgl5nY-HPKkWBQo](https://keybase.io/stel78), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiNWIjlORWgufzCOBgepA2w3r6TY29b4JeZ2PhzypFgUKp3BheWxvYWTESpcCCMQgSs20N+kV/5AKZc/8wwBrST3KhrZos7B495uM1tTCST/EIJodG5EER/Zali0otyp+oeki1Hymk+zp/l99N1SD0KYzAgHCo3NpZ8RAiYzeDSras6G0uRyyZhLzCo+kxlBdaiXgUl+JR4MnpCyRp+gypmsfkgmcr2ksp9sqHD+zRUyYcBoJfPpRlnhVBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPa1vbLGsq2opQGKOlvjL3FeqmUtD/W/63/YdDnB+Zhmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/stel78
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id stel78
+```
